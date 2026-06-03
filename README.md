@@ -6,3 +6,5 @@ This is an application for managing emploee profiles
 
 ### To package the application, execute
     nmp pack
+
+Application runs on port 3000    
