@@ -1,2 +1,2 @@
-const prifiles = []
-const profile =  ""
+const userProfiles = []
+const userProfile =  ""
