@@ -1,4 +1,5 @@
 <template>
+    // Git practice change by YOUR_NAME
     <div v-show="!isEditMode" >
         <h1>User Profile</h1>
         <img :src="image">
