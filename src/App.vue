@@ -1,5 +1,5 @@
 <template>
-    // Git practice change by YOUR_NAME
+    // Git practice change by Mahsa
     <div v-show="!isEditMode" >
         <h1>User Profile</h1>
         <img :src="image">
