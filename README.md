@@ -8,3 +8,5 @@ This is an application for managing user profiles
     nmp pack
 
 Application runs on port 3000    
+
+Git practice line added by Sahar.
