@@ -9,4 +9,4 @@ This is an application for managing user profiles
 
 Application runs on port 3000    
 
-Git practice edited locally by mahsa
+Git practice completed by mahsa.
